@@ -1,0 +1,6 @@
+{
+  "grant_type": "client_credentials",
+  "client_id":"amzn1.application-oa2-client.4c012dd6e9b04eb4807b24ab12f301b5",
+  "client_secret":"32dc103e80308d1e788d679d3e18df8c51f26ce2a11cb0b32922f8772148b601",
+  "scope":"alexa::proactive_events"
+}

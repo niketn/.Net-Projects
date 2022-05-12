@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "up5lxjCja1rzCOMkCVpJx3Cth9bIZtXhLDbe6r1ctqV9bm/Xn5i6x2CGZLy8ouiPih+ym8topq9Bg0JCxwMcOA==",
+  "success": true,
+  "projectFilePath": "D:\\AlexaNotify\\AlexaNotify\\AlexaNotify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NIKET\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.7\\microsoft.aspnetcore.jsonpatch.5.0.7.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.7\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.7.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\NIKET\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
